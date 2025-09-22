@@ -75,8 +75,8 @@ The plot represents the model performance across epochs:
 - **Orange Line (Val Acc)** → Validation accuracy to monitor generalization performance.
 
 
-!(<img width="690" height="516" alt="Screenshot 2025-09-22 095357" src="https://github.com/user-attachments/assets/f4970982-edcf-4ae7-9235-d800269f5305" />
-)
+<img width="690" height="516" alt="Screenshot 2025-09-22 095357" src="https://github.com/user-attachments/assets/f4970982-edcf-4ae7-9235-d800269f5305" />
+
 
 ### Observations:
 1. Training accuracy starts around **40%** and gradually improves to **80%**.
@@ -93,8 +93,8 @@ Run the app:
 python app.py
 
 Eample Usage:
-!(<img width="1332" height="690" alt="Screenshot 2025-09-22 100213" src="https://github.com/user-attachments/assets/5451cc36-33ad-48c8-80ac-0406a8a60c0a" />
-)
+<img width="1332" height="690" alt="Screenshot 2025-09-22 100213" src="https://github.com/user-attachments/assets/5451cc36-33ad-48c8-80ac-0406a8a60c0a" />
+
 
 ---
 
