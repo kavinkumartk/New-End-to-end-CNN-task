@@ -74,7 +74,9 @@ The plot represents the model performance across epochs:
 - **Blue Line (Train Acc)** → Training accuracy improvement as the model learns.
 - **Orange Line (Val Acc)** → Validation accuracy to monitor generalization performance.
 
-![Model Accuracy](c202082f-e295-49eb-a64e-aa7012b6db68.png)
+
+!(<img width="690" height="516" alt="Screenshot 2025-09-22 095357" src="https://github.com/user-attachments/assets/f4970982-edcf-4ae7-9235-d800269f5305" />
+)
 
 ### Observations:
 1. Training accuracy starts around **40%** and gradually improves to **80%**.
