@@ -92,6 +92,10 @@ A Gradio web interface is included for easy inference:
 Run the app:
 python app.py
 
+Eample Usage:
+!(<img width="1332" height="690" alt="Screenshot 2025-09-22 100213" src="https://github.com/user-attachments/assets/5451cc36-33ad-48c8-80ac-0406a8a60c0a" />
+)
+
 ---
 
 ## Dependencies
